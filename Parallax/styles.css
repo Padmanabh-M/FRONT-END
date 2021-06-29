@@ -29,7 +29,6 @@ body, html{
 .pimg2{
     /* here */
     background-image:url('./img/8.jpg');
-    transform: scale(3);
     transform: translate( 7%, -0%);
     min-height: 500px;
 }
